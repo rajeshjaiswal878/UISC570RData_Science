@@ -7,7 +7,6 @@ DATE: 08/31/2016
 ASSIGNMENT1: HELLO WORLD IN py
 --------------------------------------------------------------------------------------
 '''
-
 print "Hello world"
 print "UIS CSC R570 Data Science Essential 1st Assignement"
 print "Thank you for checking this"
